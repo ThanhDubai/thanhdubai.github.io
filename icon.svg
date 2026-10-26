@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>ClipFlow Studio</title>
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6dbbff"/>
+      <stop offset="1" stop-color="#2874e8"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#tile)"/>
+  <path d="M69 94h118a13 13 0 0 1 13 13v74a13 13 0 0 1-13 13H69a13 13 0 0 1-13-13v-74a13 13 0 0 1 13-13Z" fill="none" stroke="#fff" stroke-width="12"/>
+  <g transform="rotate(-8 56 84)">
+    <rect x="50" y="53" width="150" height="30" rx="7" fill="#fff"/>
+    <path d="m77 53-17 30h20l17-30Zm46 0-17 30h20l17-30Zm46 0-17 30h20l17-30Z" fill="#3f90f5"/>
+  </g>
+  <path d="M114 119a5 5 0 0 0-8 4v43a5 5 0 0 0 8 4l34-21a5 5 0 0 0 0-9Z" fill="#fff"/>
+  <path d="M167 144h14" stroke="#8ff0d6" stroke-width="10" stroke-linecap="round"/>
+</svg>
